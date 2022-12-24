@@ -5,7 +5,7 @@ type - один из типов https://github.com/angular/angular.js/blob/maste
 short-description - короткое описание (в большинстве случаев совпадает с названием ветки).
 -->
 
-## Связанные issue
+## Связанные issues
 <!--
 Укажите связанные issue, которые закрываются/фиксятся в данном pull request-е.
 Подробнее о формате: https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue.
