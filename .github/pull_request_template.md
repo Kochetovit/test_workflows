@@ -1,6 +1,17 @@
-<!--title pull request according to the scheme:
-<type>: <short-description>-->
+<!--
+Заголовок pull request-а должен задаваться в формате:
+<type>: <short-description>, где
+type - один из типов https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#type;
+short-description - короткое описание (в большинстве случаев совпадает с названием ветки).
+-->
 
-Closes \#<issue-number>
+## Связанные issue
+<!--
+Укажите связанные issue, которые закрываются/фиксятся в данном pull request-е.
+Подробнее о формате: https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue.
+-->
 
-Description of what was done.
+## Подрообное описание
+<!--
+Приведите детальное описание изменений, предлагаемых к рассмотрению в pull request-е.
+-->
