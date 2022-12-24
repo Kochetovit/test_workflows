@@ -11,7 +11,7 @@ short-description - короткое описание (в большинстве
 Подробнее о формате: https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue.
 -->
 
-## Подрообное описание
+## Подробное описание
 <!--
 Приведите детальное описание изменений, предлагаемых к рассмотрению в pull request-е.
 -->
