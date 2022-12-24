@@ -1,4 +1,5 @@
 ---
+labels: bug
 name: "zzzz"
 title: "type: short description"
 ---
